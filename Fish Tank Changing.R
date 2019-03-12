@@ -3,10 +3,10 @@ tank_N = 20  #nitrates in tank
 gal = 8.5    #gallons in tank
 N_inc = 1 #how much do your nitrates increase per day
 
-#keep these the same 
-change_days = 3       #how often do you change your tank's water?
-perm.change_days = 3  #how often do you change your tank's water?
-#
+#keep these the same#
+change_days = 7       #how often do you change your tank's water?
+perm.change_days = 7  #how often do you change your tank's water?
+###
 
 
 max_days = 280
